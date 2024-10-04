@@ -1,13 +1,13 @@
 <h1 align="center">Hello , I'm Mateusz "Mati" Rychel</h1>
-<h3 align="center">I'm beginning programmer. I'm learning frontend, backend and Python.</h3>
+<h3 align="center">I'm beginning programmer. I'm learning Frontend, React.js, Python, .Net Maui and AI.</h3>
 
-- 🧑‍💻 I’m currently working on [Student Grade System](https://github.com/MateuszRychel/Student-Grading-System)
+- 🧑‍💻 I’m currently working on [Portfolio]
 
-- 👨‍🎓 I’m currently learning **HTML5, CSS3, Bootstrap5, Javascript, Node.js, PHP, MySQL, Python, C#, C++ and .NET**
-
+- 👨‍🎓 I’m currently learning **Frontend, React.js, Python, .Net Maui and AI**
+ 
 - 💻 You can find my works here: [https://github.com/MateuszRychel?tab=repositories](https://github.com/MateuszRychel?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
 </p>
 
