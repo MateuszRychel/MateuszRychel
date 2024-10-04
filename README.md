@@ -1,7 +1,7 @@
 <h1 align="center">Hello , I'm Mateusz "Mati" Rychel</h1>
 <h3 align="center">I'm beginning programmer. I'm learning Frontend, React.js, Python, .Net Maui and AI.</h3>
 
-- 🧑‍💻 I’m currently working on [Portfolio]
+- 🧑‍💻 I’m currently working on Portfolio
 
 - 👨‍🎓 I’m currently learning **Frontend, React.js, Python, .Net Maui and AI**
  
