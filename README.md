@@ -64,8 +64,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge" height="40" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge" height="40" alt="inkscape logo"  />
 </div>
 
 ###
