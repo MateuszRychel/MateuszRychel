@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I have been programming since 2021.<br><br>I'm currently learning Fronted and Backend</p>
+<p align="left">I have been programming since 2021.<br><br>I'm currently learning Fronted and Backend.</p>
 
 ###
 
