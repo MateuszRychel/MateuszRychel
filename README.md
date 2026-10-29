@@ -1,69 +1,78 @@
-<h1 align="center">Hi, I'm Mateusz Rychel</h1>
+# Hi there, I'm Mateusz Rychel!
 
-###
+**Computer Science Student | Exploring Full-Stack Development**
 
-<h2 align="center">About me</h2>
+I'm a Computer Science student. I've been programming since 2021, starting my journey in technical secondary school.
 
-###
+I'm currently exploring **Full-Stack Development**, focusing on **React and TypeScript** for frontend development and **Node.js or C#/.NET** for backend development.
 
-<p align="left">I have been programming since 2021.<br><br>I'm currently learning Fronted and Backend.</p>
+## About Me
 
-###
+- Interested in building modern web applications and exploring software development.
+- Developing my skills in frontend and backend technologies.
+- Occasionally experimenting with Python and building small projects.
+- Learning how to integrate AI models and services into applications and use AI-powered development tools.
+- Continuously improving through university studies, personal projects, and online courses.
 
-<h2 align="center">My Tech Stack</h2>
+## Technologies & Tools
 
-###
+### Frontend
 
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-</div>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="Bootstrap 5" title="Bootstrap 5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS" />
+</p>
 
-###
+### Backend
 
-<h2 align="center">Tools</h2>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" title="C#" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="42" height="42" alt=".NET" title=".NET" />
+</p>
 
-###
+### Databases
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge" height="40" alt="gimp logo"  />
-</div>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" title="MongoDB" />
+</p>
 
-###
+### Other Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="GitHub" title="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="42" height="42" alt="Visual Studio" title="Visual Studio" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" title="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="42" height="42" alt="PyCharm" title="PyCharm" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux / WSL2" title="Linux / WSL2" />
+</p>
+
+**Also using:** Zed, WSL2
+
+## Featured Projects
+
+### [Learning App](https://github.com/MateuszRychel/learning-app)
+
+A web application for creating and managing vocabulary lists and practicing language skills.
+
+**Technologies:** React, Node.js, Express, MongoDB
+
+## Connect With Me
+
+- [LinkedIn](https://pl.linkedin.com/in/mateuszrychel)
+- [GitHub](https://github.com/MateuszRychel)
+- [Codeberg](https://codeberg.org/MateuszRychel)
